@@ -1,3 +1,5 @@
+//huda is great
+
 #include <stdio.h>
 
 long factorial(int);
